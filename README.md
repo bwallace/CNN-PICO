@@ -99,7 +99,7 @@ To use the  Convolutional Neural Network or Standard Feed forward Neural Network
 ```bash
     --window_size       # the number of words to use as features 
     --wiki              # 1 or 0 Use the word vectors trained on pubmed and wikipedia 
-    --n_feature_maps    # the numner of feature maps for the CNN only
+    --n_feature_maps    # the number of feature maps for the CNN only
     --epochs            # number of epochs to train the model for
     --undersample       # 1 or 0 whether to train the model with 
     --criterion         # the loss function
